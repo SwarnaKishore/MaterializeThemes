@@ -15,3 +15,11 @@
 .pt-5, .py-5 {
     padding-top: 1rem !important;
 }
+
+.margin-top-3 {
+    margin-top: 3%;
+}
+
+.page-section {
+    padding: 6rem 0 !important;
+}
