@@ -1,0 +1,40 @@
+.card-text {
+    font-family: 'Open Sans' !important;
+    font-size: 15px;
+}
+
+.section-header {
+    text-align: center;
+    margin-bottom: 2%;
+    text-transform: uppercase;
+}
+
+.pb-5, .py-5 {
+    padding-bottom: 1rem !important;
+}
+.pt-5, .py-5 {
+    padding-top: 1rem !important;
+}
+
+.margin-top-3 {
+    margin-top: 3%;
+}
+
+.page-section {
+    padding: 6rem 0 !important;
+}
+
+.card {
+    margin: 1%;
+}
+
+.btn-outline-primary {
+    color: #ec407a;
+    border-color: #ec407a;
+    font-size: 13px;
+}
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: #ec407a;
+    border-color: #ec407a;
+  }
